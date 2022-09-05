@@ -1,0 +1,11 @@
+﻿Nombre;Apellido;Nombre de Usuario;Contraseña inventada;Correo electrónico
+Carlos;Pinela;Carlosjp;Carlitos18;carlospinela145@gmail.com
+Dareck;Franco;dffranco;dareck;dffranco@espol.edu.ec
+Eva;Vargas;mel.va_21;megustaelpan;melvvpe21@gmail.com
+Bangner;Moreira;Bangner7;12345;bamochav@espol.edu.ec
+Paulo;Valarezo;Paulo11Andre;soydrogo1998;pauvcano@espol.edu.ec
+Jose;Ramos;Toomcrak;Jmramigostom;ramosjosemanuel-12@hotmail.com
+Victoria;Cáceres;vcn26;rdn4321;vcaceres@espol.edu.ec
+Cristóbal;Lara;crilvir;Aguacate23;cris_99@hotmail.es
+Nicole;Ramos;Nicole;12192528;nicoleramosortiz16@gmail.com
+Shirley;González;Sol;Zxcv0987;ssoledad.moran2002@gmail.com

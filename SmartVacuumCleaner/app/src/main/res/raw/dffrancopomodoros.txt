@@ -1,0 +1,3 @@
+nombre;pomodoroN
+estudio;25,5,25,5,25
+trabajo;25,5,25

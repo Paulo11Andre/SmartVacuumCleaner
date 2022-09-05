@@ -1,0 +1,25 @@
+{
+  "name": "pomodoroapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo11Andre/PomodoroApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulo11Andre/PomodoroApp/issues"
+  },
+  "homepage": "https://github.com/Paulo11Andre/PomodoroApp#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "npm": "^8.3.0"
+  }
+}

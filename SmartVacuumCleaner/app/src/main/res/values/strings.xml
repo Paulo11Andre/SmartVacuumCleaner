@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Smart Vacuum Cleaner</string>
+    <string name="title_activity_perfil">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_logo">App logo</string>
+    <string name="pomodoroapp">PomodoroApp</string>
+    <string name="by_grupo_7">By: Grupo 7</string>
+    <string name="inicio_de_sesion">Inicio de sesión</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="salir">Salir</string>
+    <string name="calendario_de_sesiones">Calendario de sesiones</string>
+    <string name="volver">Volver</string>
+    <string name="menu">Menú</string>
+    <string name="comenzar_pomodoro">Comenzar Pomodoro</string>
+    <string name="editar_pomodoros">Editar Pomodoros</string>
+    <string name="perfil">Perfil</string>
+    <string name="nuevo_pomodoro">Nuevo pomodoro</string>
+    <string name="imagen_de_perfil_del_usuario">Imagen de perfil del usuario</string>
+    <string name="configuracion">Configuración</string>
+    <string name="nombre_de_usuario_et">Nombre de usuario:</string>
+    <string name="nombre_et">Nombre:</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_et">Correo:</string>
+    <string name="correo">Correo</string>
+    <string name="sin_cuenta">¿No tienes una cuenta?</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="apellido">Apellido</string>
+    <string name="e_mail">E-mail</string>
+    <string name="apellido_et">Apellido:</string>
+    <string name="nombre_de_pomodoro">Nombre de Pomodoro</string>
+    <string name="ej_5">ej: 5</string>
+    <string name="ej_30">ej: 30</string>
+    <string name="ej_estudio">ej: Estudio</string>
+    <string name="intervalos_de_trabajo">Intervalos de trabajo</string>
+    <string name="minutos_de_intervalos_de_trabajo">Minutos de intervalos de trabajo</string>
+    <string name="minutos_de_intervalos_de_descanso">Minutos de intervalos de descanso</string>
+    <string name="crear_pomodoro">Crear Pomodoro</string>
+    <string name="smart_vacuum_cleaner">Smart Vacuum Cleaner</string>
+    <string name="comenzar_limpieza">Comenzar Limpieza</string>
+    <string name="editar_rutinas">Editar Rutinas</string>
+    <string name="nueva_rutina">Nueva rutina</string>
+    <string name="comenzar_rutina">Comenzar rutina</string>
+    <string name="nombre_de_rutina">Nombre de rutina</string>
+    <string name="crear_rutina">Crear rutina</string>
+</resources>
