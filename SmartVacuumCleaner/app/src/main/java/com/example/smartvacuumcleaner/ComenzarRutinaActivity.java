@@ -1,4 +1,4 @@
-package com.example.pomodoro;
+package com.example.smartvacuumcleaner;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,13 +7,13 @@ import android.os.Bundle;
 import android.view.View;
 import java.util.Objects;
 
-public class EditarRutinasActivity extends AppCompatActivity {
+public class ComenzarRutinaActivity extends AppCompatActivity {
     private String idUsuario;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_editar_rutinas);
+        setContentView(R.layout.activity_comenzar_rutina);
         Objects.requireNonNull(getSupportActionBar()).hide();
 
         Bundle b = getIntent().getExtras();

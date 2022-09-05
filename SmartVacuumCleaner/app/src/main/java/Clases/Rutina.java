@@ -2,11 +2,11 @@ package Clases;
 
 import java.util.ArrayList;
 
-public class Pomodoro {
+public class Rutina {
     private String nombre;
     private ArrayList<Double> actividades;
 
-    public Pomodoro(String nombre) {
+    public Rutina(String nombre) {
         this.nombre = nombre;
         ArrayList<Double> act = new ArrayList<>();
         act.add(25.0);
@@ -18,7 +18,7 @@ public class Pomodoro {
 
     }
 
-    public Pomodoro(String nombre, ArrayList<Double> actividades) {
+    public Rutina(String nombre, ArrayList<Double> actividades) {
         this.nombre = nombre;
         this.actividades = actividades;
     }

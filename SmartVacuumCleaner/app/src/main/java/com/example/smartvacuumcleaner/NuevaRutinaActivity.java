@@ -1,4 +1,4 @@
-package com.example.pomodoro;
+package com.example.smartvacuumcleaner;
 
 import androidx.appcompat.app.AppCompatActivity;
 

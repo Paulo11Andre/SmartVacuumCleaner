@@ -5,15 +5,15 @@ import java.time.LocalDateTime;
 
 public class Sesion {
     private int id;
-    private Pomodoro pomodoro;
+    private Rutina rutina;
     private LocalDate fecha;
     private LocalDateTime horaInicio;
     private LocalDateTime horaFinal;
     private boolean estado;
 
-    public Sesion(int id, Pomodoro pomodoro) {
+    public Sesion(int id, Rutina rutina) {
         this.id = id;
-        this.pomodoro = pomodoro;
+        this.rutina = rutina;
     }
 
     public int getId() {
@@ -24,12 +24,12 @@ public class Sesion {
         this.id = id;
     }
 
-    public Pomodoro getPomodoro() {
-        return pomodoro;
+    public Rutina getRutina() {
+        return rutina;
     }
 
-    public void setPomodoro(Pomodoro pomodoro) {
-        this.pomodoro = pomodoro;
+    public void setRutina(Rutina rutina) {
+        this.rutina = rutina;
     }
 
     public LocalDate getFecha() {
