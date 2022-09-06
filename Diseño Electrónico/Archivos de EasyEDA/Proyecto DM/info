@@ -1,0 +1,280 @@
+{
+  "uuid": "2d91c329db641534470f62f6d14b9693",
+  "path": "Offline/Proyecto%20DM",
+  "name": "Proyecto DM",
+  "content": "",
+  "created_at": "2022-09-04 15:13:41",
+  "updated_at": "2022-09-05 03:44:18",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "26f0b7cec71d15e265711fd465021936",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e11347d69c5b4cae9a4590299326e5d0": 1,
+        "1e71c86a09c64864a9b1d5401d33852a": 2,
+        "70cf8dceba164defbb35dca0653e85cd": 2,
+        "3d324fb6167941178000414f92205449": 3,
+        "b4d41bcbe94a447a815f024f5cab5dc2": 1,
+        "63c4a14ef701408fa8aeaccaa0b48ee4": 2,
+        "5cbe824183374fac8e4c1ae848199ce3": 1,
+        "eea5ab3e398746bba004e50d044e8edb": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 2,
+        "e545f26e87c74952857381bd0bff848e": 1,
+        "67082a4ee642ac71e2dcdf6758d8dd66": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "5V",
+          1,
+          "BAT-SMD_CR1220-2",
+          "B1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Q&J",
+            "BOM_Manufacturer Part": "CR1220-2",
+            "BOM_Supplier Part": "C70381",
+            "puuid": "ad4cf9a98ad04c21832cf27a15f0d202",
+            "uuid": "67082a4ee642ac71e2dcdf6758d8dd66"
+          }
+        ],
+        [
+          "12V",
+          1,
+          "BAT-SMD_CR1220-2",
+          "B2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Q&J",
+            "BOM_Manufacturer Part": "CR1220-2",
+            "BOM_Supplier Part": "C70381",
+            "puuid": "ad4cf9a98ad04c21832cf27a15f0d202",
+            "uuid": "67082a4ee642ac71e2dcdf6758d8dd66"
+          }
+        ],
+        [
+          "100u",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "LED-0603_R",
+          1,
+          "LED0603_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "560",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "PIEZO",
+          2,
+          "PIEZO_14MM",
+          "SG1,SG2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "40b90f4ffd4640738cb8e23d7c37f375",
+            "uuid": "70cf8dceba164defbb35dca0653e85cd"
+          }
+        ],
+        [
+          "Nodemcu esp32",
+          1,
+          "NODEMCU-ESP32S",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "Nodemcu esp32",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "bfd0051fdbdc4eda8be0295073d16fd6",
+            "uuid": "e11347d69c5b4cae9a4590299326e5d0"
+          }
+        ],
+        [
+          "L298N",
+          2,
+          "L298N",
+          "U2,U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "18ed2c0a25664a5b9a30a52c4675a482",
+            "uuid": "1e71c86a09c64864a9b1d5401d33852a"
+          }
+        ],
+        [
+          "Wheel 2",
+          1,
+          "TT DC MOTOR",
+          "U4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f4bb5ba74a7741f19bb23006aec533c2",
+            "uuid": "3d324fb6167941178000414f92205449"
+          }
+        ],
+        [
+          "Wheel 1",
+          1,
+          "TT DC MOTOR",
+          "U5",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f4bb5ba74a7741f19bb23006aec533c2",
+            "uuid": "3d324fb6167941178000414f92205449"
+          }
+        ],
+        [
+          "Vacuum Cleaner Motor",
+          1,
+          "TT DC MOTOR",
+          "U6",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f4bb5ba74a7741f19bb23006aec533c2",
+            "uuid": "3d324fb6167941178000414f92205449"
+          }
+        ],
+        [
+          "Button",
+          1,
+          "12X12 BUTTOM",
+          "U7",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "15398da0d4c94ef7a32a77bf69ce0b1d",
+            "uuid": "eea5ab3e398746bba004e50d044e8edb"
+          }
+        ],
+        [
+          "IMU",
+          1,
+          "IMU_MODULE",
+          "U8",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "54be18e8fbc2451baea84a0ee0e79e2f",
+            "uuid": "b4d41bcbe94a447a815f024f5cab5dc2"
+          }
+        ],
+        [
+          "HC-SR04",
+          2,
+          "HC-SR04",
+          "U9,U10",
+          {
+            "BOM_Manufacturer Part": "HC-SR04",
+            "puuid": "b0fad6b828aa4c12bae8f2ed6c0ee1fb",
+            "uuid": "63c4a14ef701408fa8aeaccaa0b48ee4"
+          }
+        ]
+      ],
+      "updateTime": 1662367458,
+      "createTime": 1662322423,
+      "histories": [],
+      "created_at": "2022-09-04 15:13:43",
+      "updated_at": "2022-09-05 03:44:18"
+    },
+    {
+      "uuid": "ecf2e95117d929aee32976e6763237c2",
+      "puuid": "2d91c329db641534470f62f6d14b9693",
+      "title": "PCB_Proyecto DM_2",
+      "filename": "PCB_Proyecto DM_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ad4cf9a98ad04c21832cf27a15f0d202": 2,
+        "ce25118ef0b041b8a773e71ca28ae65d": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 1,
+        "398691f1f785460098bbe5ee6590333c": 2,
+        "40b90f4ffd4640738cb8e23d7c37f375": 2,
+        "bfd0051fdbdc4eda8be0295073d16fd6": 1,
+        "18ed2c0a25664a5b9a30a52c4675a482": 2,
+        "f4bb5ba74a7741f19bb23006aec533c2": 3,
+        "15398da0d4c94ef7a32a77bf69ce0b1d": 1,
+        "54be18e8fbc2451baea84a0ee0e79e2f": 1,
+        "b0fad6b828aa4c12bae8f2ed6c0ee1fb": 2
+      },
+      "BOM": [],
+      "updateTime": 1662367388,
+      "createTime": 1662339003,
+      "histories": [],
+      "created_at": "2022-09-04 19:50:03",
+      "updated_at": "2022-09-05 03:43:08"
+    }
+  ],
+  "sort": [],
+  "title": "Proyecto DM",
+  "foldername": "Proyecto DM",
+  "schfilename": "Proyecto DM.json",
+  "schfilemtime": 1662367458721
+}
